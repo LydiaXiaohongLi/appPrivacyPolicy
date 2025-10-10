@@ -1,12 +1,12 @@
 # Privacy Policy
 
-**Bun Studio UI** (“the App”) is developed by **Lydia Li**. This Privacy Policy explains how we handle information when you use the App.
+The App is developed by **Lydia Li**. This Privacy Policy explains how we handle information when you use the App.
 
 ---
 
 ## Information We Collect
 - **Account Information**: We use Firebase Authentication to let users log in with an email address. This is only used to create and manage an account.  
-- **Learning Progress Data**: The App saves learning progress information (for example, correct answers or earned rewards) in Google Firestore, to track how users advance in the App.
+- **Learning Progress Data**: The App saves learning progress information (for example, number of correct answers or earned rewards) in Google Firestore, to track how users advance in the App.
 
 ---
 
@@ -20,11 +20,6 @@
 ## How We Use Information
 - Email addresses are used only for login purposes.  
 - Learning progress data is used to provide feedback and track progress within the App.  
-
----
-
-## Children’s Privacy
-This App is designed for children. We comply with child data protection regulations such as COPPA and GDPR-K. Parents can contact us anytime to review or request deletion of their child’s account data.  
 
 ---
 
