@@ -31,7 +31,8 @@ We use Google Firebase services, including Firebase Authentication and Firestore
 ## Third-Party Services
 The App uses:  
 - **Firebase Authentication**  
-- **Google Firestore**  
+- **Firestore Database**
+- **Firebase Cloud Functions**  
 
 These services may collect limited data as described in their own privacy policies.  
 
